@@ -1,2 +1,3 @@
-#!/usr/bin/env bash
-echo "Деплой на stage"
+@echo off
+set example=DeployStaging!
+echo %example%
